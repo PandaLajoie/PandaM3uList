@@ -32,7 +32,7 @@ https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-chno="21" tvg-id="CA1300001DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300001DN_20260421T140239SQUARE.png" group-title="Noovo",Noovo Comédies
 https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-id="" tvg-logo="" group-title="Noovo",Noovo Téléréalités
+#EXTINF:-1 tvg-chno="22" tvg-id="CA1400006BZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400006BZ_20260421T141124SQUARE.png" group-title="Noovo",Noovo Crime
 https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
 
 #EXTINF:-1 tvg-chno="30" tvg-id="Savoir.média.ca2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png" group-title="Éducation",Savoir média
